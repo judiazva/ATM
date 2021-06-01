@@ -1,4 +1,4 @@
-saldo = 1000
+saldo = 0
 
 print("\t.:MENU:.")
 print("1.  Ingresar el dinero en la cuenta")
